@@ -1,6 +1,13 @@
 :root{
     --primary-text-color: #0bb5a1;
     --seccondary-text-color: #000000;
+    --link-color: #1f73c8;
+    --padding-inline-section: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: var(--link-color);
 }
 
 .flex{
@@ -12,10 +19,40 @@
     max-width: 1180px;
     margin-inline: auto;
     overflow: hidden;
+    padding: var(--padding-inline-section);
 }
 
 .name{
-    font-size: 100px;
+    font-size: 110px;
     text-align: center;
     color: var(--primary-text-color);
+}
+
+.description{
+    justify-content: space-around;
+    font-size: 25px;
+    padding: var(--padding-inline-section);
+    gap: 50px;
+}
+
+.desc-item{
+    row-gap: 2px;
+}
+
+.heading{
+    margin-top: 20px;
+    font-size: 60px;
+    color: var(--seccondary-text-color);
+}
+
+.primary-ul{
+    margin: 2px ;
+    font-size: 40px;
+    color: var(--primary-text-color);
+}
+
+.seccondary-ul{
+    margin: 4px ;
+    font-size: 25px;
+    color: var(--seccondary-text-color);
 }
