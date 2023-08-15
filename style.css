@@ -3,11 +3,22 @@
     --seccondary-text-color: #000000;
     --link-color: #1f73c8;
     --padding-inline-section: 20px;
+    --name-size: 80px;
+    --heading-size: 40px;
+    --sub-heading-size: 30px;
+    --content-size: 20px;
 }
 
 a{
     text-decoration: none;
     color: var(--link-color);
+}
+
+hr{
+    background-color: var(--primary-text-color);
+    border: none;
+    margin: 20px;
+    height: 2px;
 }
 
 .flex{
@@ -23,15 +34,14 @@ a{
 }
 
 .name{
-    font-size: 110px;
+    font-size: var(--name-size);
     text-align: center;
     color: var(--primary-text-color);
 }
 
 .description{
     justify-content: space-around;
-    font-size: 25px;
-    padding: var(--padding-inline-section);
+    font-size: var(--content-size);
     gap: 50px;
 }
 
@@ -40,19 +50,19 @@ a{
 }
 
 .heading{
-    margin-top: 40px;
-    font-size: 60px;
+    margin-top: 20px;
+    font-size: var(--heading-size);
     color: var(--seccondary-text-color);
 }
 
 .primary-ul{
     margin: 5px ;
-    font-size: 40px;
+    font-size: var(--sub-heading-size);
     color: var(--primary-text-color);
 }
 
 .seccondary-ul{
     margin: 4px ;
-    font-size: 25px;
+    font-size: var(--content-size);
     color: var(--seccondary-text-color);
 }
