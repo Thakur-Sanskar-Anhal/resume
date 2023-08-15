@@ -53,7 +53,9 @@ hr{
 }
 
 .desc-item{
-    gap: 5px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
 .heading{
