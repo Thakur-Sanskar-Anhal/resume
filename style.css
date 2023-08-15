@@ -40,13 +40,13 @@ a{
 }
 
 .heading{
-    margin-top: 20px;
+    margin-top: 40px;
     font-size: 60px;
     color: var(--seccondary-text-color);
 }
 
 .primary-ul{
-    margin: 2px ;
+    margin: 5px ;
     font-size: 40px;
     color: var(--primary-text-color);
 }
