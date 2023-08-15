@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lora&family=Poppins:wght@400;700&family=Roboto:wght@400;700&family=Varela+Round&display=swap');
+
 :root{
     --primary-text-color: #0bb5a1;
     --seccondary-text-color: #000000;
     --link-color: #1f73c8;
     --padding-inline-section: 20px;
-    --name-size: 80px;
+    --name-size: 100px;
     --heading-size: 40px;
     --sub-heading-size: 30px;
     --content-size: 20px;
@@ -12,6 +14,10 @@
 a{
     text-decoration: none;
     color: var(--link-color);
+}
+
+body{
+    font-family: 'lora';
 }
 
 hr{
@@ -34,6 +40,7 @@ hr{
 }
 
 .name{
+    font-family: 'Dancing Script';
     font-size: var(--name-size);
     text-align: center;
     color: var(--primary-text-color);
@@ -46,7 +53,7 @@ hr{
 }
 
 .desc-item{
-    row-gap: 2px;
+    gap: 5px;
 }
 
 .heading{

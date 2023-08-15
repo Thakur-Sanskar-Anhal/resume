@@ -1,26 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link rel="icon" href="assets/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="descriptiion" content="This is the resume of Thakur Sanskar Anhal">
-    <title>Sanskar Anhal</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+import './App.css';
+
+function App() {
+  return (
     <div class="container">
 
-        <!-- heading name -->
+        {/* <!-- heading name --> */}
         <div class="name">
             Sanskar Anhal
         </div>
 
-        <!-- description -->
+        {/* <!-- description --> */}
         <div class="description flex">
             <div class="desc-item">
-                <i class="fa-regular fa-envelope"></i>
-                <a href="mailto: thakursanskaranhal@gmail.com" target=”_blank”>thakursanskaranhal@gmail.com</a>
+                <i class="fa-solid fa-envelope"></i>
+                <a href="mailto: thakursanskaranhal@gmail.com">thakursanskaranhal@gmail.com</a>
             </div>
             <div class="desc-item">
                 <i class="fa-solid fa-phone"></i>
@@ -36,9 +29,9 @@
             </div>
         </div>
 
-        <hr>
+        <hr/>
 
-        <!-- Eduation and skil -->
+        {/* <!-- Eduation and skil --> */}
         <div class="education">
             <div class="heading">
                 Education and Skills:
@@ -67,9 +60,9 @@
             </ul>
         </div>
 
-        <hr>
+        <hr/>
 
-        <!-- Projects -->
+        {/* <!-- Projects --> */}
         <div class="projects">
             <div class="heading">
                 Projects:
@@ -81,7 +74,7 @@
                     <li>Created user personas, user journey maps and did usability study for the app.</li>
                     <li>Created paper and digital wireframes.</li>
                     <li>Created low-fidelity and high-fidelity designs.</li>
-                    <a href="https://www.figma.com/file/zB7HoV04AmIRH8IR1kzBYT/sans.wich?type=design&node-id=0-1&mode=design" target=”_blank”>Link for my wireframes and base design</a>
+                    <a href="https://www.figma.com/file/zB7HoV04AmIRH8IR1kzBYT/sans.wich?type=design&node-id=0-1&mode=design" >Link for my wireframes and base design</a>
                 </ul>
 
                 <li>Tinker.text</li>
@@ -91,7 +84,7 @@
                     <li>Used react router to control the flow of the web app.</li>
                     <li>Used elements by bootstrap and modified them according to my need.</li>
                     <li>Hosted and deployed the web app on GitHub pages.</li>
-                    <a href="https://thakur-sanskar-anhal.github.io/tinker-text/" target=”_blank”>Link for Tinker.text</a>
+                    <a href="https://thakur-sanskar-anhal.github.io/tinker-text/">Link for Tinker.text</a>
                 </ul>
 
                 <li>Created a personal notes application</li>
@@ -99,7 +92,7 @@
                     <li>Designed and coded a java application to make and manage notes.</li>
                     <li>Used Android Studio IDE for developing and Realm.io for data handling.</li>
                     <li>Added many features as add, delete, and edit a note.</li>
-                    <a href="https://github.com/Thakur-Sanskar-Anhal/Personal-Notes-App" target=”_blank”>Link for the GitHub project</a>
+                    <a href="https://github.com/Thakur-Sanskar-Anhal/Personal-Notes-App">Link for the GitHub project</a>
                 </ul>
 
                 <li>Created a login application</li>
@@ -107,14 +100,15 @@
                     <li>Created a login application using firebase.</li>
                     <li>Coded in the android studio IDE.</li>
                     <li>Coded with java language and hosted the application on GitHub.</li>
-                    <a href="https://github.com/Thakur-Sanskar-Anhal/First-App" target=”_blank”>Link for the GitHub project</a>
+                    <a href="https://github.com/Thakur-Sanskar-Anhal/First-App">Link for the GitHub project</a>
                 </ul>
+
             </ul>
         </div>
 
-        <hr>
+        <hr/>
 
-        <!-- Internships -->
+        {/* // <!-- Internships --> */}
         <div class="internships">
             <div class="heading">
                 Internship Experiences / Certificates:
@@ -138,6 +132,7 @@
             </ul>
         </div>
     </div>
-    <script src="https://kit.fontawesome.com/b537f76d6a.js" crossorigin="anonymous"></script>
-</body>
-</html>
+  );
+}
+
+export default App;
