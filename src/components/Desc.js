@@ -19,7 +19,7 @@ function desc() {
             </div>
             <div className="desc-item">
                 <i className="fa-solid fa-phone"></i>
-                8586873826
+                +91 8586873826
             </div>
             <div className="desc-item">
                 <i className="fa-solid fa-location-dot"></i>

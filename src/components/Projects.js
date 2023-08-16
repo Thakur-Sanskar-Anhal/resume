@@ -9,15 +9,6 @@ function Projects() {
                 Projects:
             </div>
             <ul className="primary-ul">
-                <li>UI/UX design Case Study for an app</li>
-                <ul className="seccondary-ul">
-                    <li>Designed a custom sandwich ordering app for a trendy sandwich shop.</li>
-                    <li>Created user personas, user journey maps and did usability study for the app.</li>
-                    <li>Created paper and digital wireframes.</li>
-                    <li>Created low-fidelity and high-fidelity designs.</li>
-                    <li><a rel="noreferrer" href="https://www.figma.com/file/zB7HoV04AmIRH8IR1kzBYT/sans.wich?type=design&node-id=227%3A777&mode=design&t=TtpA93mEwFhif7zc-1" target="_blank">Link for my wireframes and base design</a></li>
-                </ul>
-
                 <li>Tinker.text</li>
                 <ul className="seccondary-ul">
                     <li>Created a react app that is used to convert text to required cases and recites it for you.</li>
@@ -27,6 +18,17 @@ function Projects() {
                     <li>Hosted and deployed the web app on GitHub pages.</li>
                     <li><a rel="noreferrer" href="https://thakur-sanskar-anhal.github.io/tinker-text/" target="_blank">Link for Tinker.text</a></li>
                 </ul>
+                
+                <li>UI/UX design Case Study for an app</li>
+                <ul className="seccondary-ul">
+                    <li>Designed a custom sandwich ordering app for a trendy sandwich shop.</li>
+                    <li>Created user personas, user journey maps and did usability study for the app.</li>
+                    <li>Created paper and digital wireframes.</li>
+                    <li>Created low-fidelity and high-fidelity designs.</li>
+                    <li><a rel="noreferrer" href="https://www.figma.com/file/zB7HoV04AmIRH8IR1kzBYT/sans.wich?type=design&node-id=227%3A777&mode=design&t=TtpA93mEwFhif7zc-1" target="_blank">Link for my wireframes and base design</a></li>
+                </ul>
+
+                
 
                 <li>Created a personal notes application</li>
                 <ul className="seccondary-ul">
@@ -44,12 +46,19 @@ function Projects() {
                     <li><a rel="noreferrer" href="https://github.com/Thakur-Sanskar-Anhal/First-App" target="_blank">Link for the GitHub project</a></li>
                 </ul>
 
+                <li>Product design brainstorming with miro</li>
+                <ul className="seccondary-ul">
+                    <li>In this project we created a product design brainstorming with Miro as an online collaborative interactive tool.</li>
+                    <li>I used different whiteboards and team work techniques and models such as brainwriting or SCAMPERS</li>
+                    <li>I designed and streamlined ideas into an action plan with a timeline workflow.</li>
+                    <li><a rel="noreferrer" href="https://drive.google.com/file/d/1vzluStQNdTcy-EZ3MAJqqu8OQxQhm4DD/view?usp=sharing" target="_blank">Link for the completion certificate</a></li>
+                </ul>
+
                 <li>Customer churn prediction using neural networks</li>
                 <ul className="seccondary-ul">
                     <li>Created a customer churn prediction model using macgine learning algos.</li>
                     <li>Conducted comprehensive data analysis to identify key predictors of custoomer churn.</li>
                     <li>Achieved accuracy rating of 89%, enabling the company to target and retain customers.</li>
-                    <li><a rel="noreferrer" href="https://github.com/Thakur-Sanskar-Anhal/First-App" target="_blank">Link for the GitHub project</a></li>
                 </ul>
 
             </ul>

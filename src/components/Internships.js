@@ -15,8 +15,8 @@ function Internships() {
                     <li>Created front-end in Svelte.</li>
                     <li>Connected the module with firebase.</li>
                     <li>Worked in a team of 10 and collaborated on Slack.</li>
-                    <li><a rel="noreferrer" href="https://us-central1-netcredential-22f17.cloudfunctions.net/cred/credential/9pZH65c85d" target="_blank">Letter of recomendation by IEEE</a></li>
-                    <li><a rel="noreferrer" href="https://us-central1-netcredential-22f17.cloudfunctions.net/cred/credential/9pZH0c278d" target="_blank">Completion certificate</a></li>
+                    <li><a rel="noreferrer" href="https://drive.google.com/file/d/1JAzt3-_iQxYc7BzQ4DQ58fZi-3RqrJtz/view?usp=sharing" target="_blank">Letter of recomendation by IEEE</a></li>
+                    <li><a rel="noreferrer" href="https://drive.google.com/file/d/1y2GN7Nsf9dkxjwJRVKveHYczQ0LPimlP/view?usp=sharing" target="_blank">Completion certificate</a></li>
                 </ul>
                 
                 <li>IBM CRSBOX: Data analytics Internship</li>
@@ -25,6 +25,7 @@ function Internships() {
                     <li>Learnt about trends and patterns recognitions.</li>
                     <li>Demonstrated proficiency in developing data vizualizations and presenting data in a meaningful manner.</li>
                     <li>Learnt and Demonstrated decision making and straterfy formulation based on data.</li>
+                    <li><a rel="noreferrer" href="https://drive.google.com/file/d/1UCDENWe2VmkcNzWzPml3ZTcJKW7VuS0F/view?usp=sharing" target="_blank">Completion certificate</a></li>
                 </ul>
                
                <li>Google UX design professional certificate</li>
@@ -40,8 +41,8 @@ function Internships() {
                     <li>Completed the AI analyst course offered by IBM.</li>
                     <li>Gained proficiency in programming languages like R and python, utlizing them to implement AI algos.</li>
                     <li>Created multiple projects on IBM cloud such as AI pipeline, healthcare chatbots, data analysis using AI,etc.</li>
-                    <li>Acquired hands-on experience in data preprocessing, feature engineering, and data visualization techniques,
-                        enhancing data quality and extracting meaningful insights.</li>
+                    <li>Acquired hands-on experience in data preprocessing, feature engineering, and data visualization techniques, enhancing data quality and extracting meaningful insights.</li>
+                    <li><a rel="noreferrer" href="https://drive.google.com/file/d/1xfw2ND8RLlTzF-wLDIWVFNSU2ClismBC/view?usp=sharing" target="_blank">Link for the certificate</a></li>
                 </ul>
             </ul>
         </div>
