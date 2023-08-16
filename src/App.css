@@ -48,8 +48,10 @@ hr{
 
 .description{
     justify-content: space-around;
+    flex-wrap: wrap;
     font-size: var(--content-size);
-    gap: 50px;
+    /* row-gap: 4px;  */
+    gap: 10px 20px;
 }
 
 .desc-item{
@@ -74,4 +76,17 @@ hr{
     margin: 4px ;
     font-size: var(--content-size);
     color: var(--seccondary-text-color);
+}
+
+@media  (max-width: 480px) {
+    :root{
+        --primary-text-color: #0bb5a1;
+        --seccondary-text-color: #000000;
+        --link-color: #1f73c8;
+        --padding-inline-section: 20px;
+        --name-size: 65px;
+        --heading-size: 35px;
+        --sub-heading-size: 25px;
+        --content-size: 15px;
+    }
 }
