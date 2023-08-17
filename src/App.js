@@ -3,15 +3,13 @@ import Education from './components/Education';
 import Internships from './components/Internships';
 import Projects from './components/Projects';
 import Desc from './components/Desc';
+import Hero from './components/Hero';
 
 function App() {
   return (
     <div className="container">
 
-        {/* <!-- heading name --> */}
-        <div className="name">
-            Sanskar Anhal
-        </div>
+        <Hero/>
 
         <Desc/>
 

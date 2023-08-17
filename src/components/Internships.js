@@ -28,15 +28,7 @@ function Internships() {
                     <li><a rel="noreferrer" href="https://drive.google.com/file/d/1UCDENWe2VmkcNzWzPml3ZTcJKW7VuS0F/view?usp=sharing" target="_blank">Completion certificate</a></li>
                 </ul>
                
-               <li>Google UX design professional certificate</li>
-                <ul className="seccondary-ul">
-                    <li>Learnt the foundations of UX design.</li>
-                    <li>Learnt the design process: Empathize, Define, and Ideate.</li>
-                    <li>Conducted UX research and learnt to create design prototypes.</li>
-                    <li>Learnt responsive web design.</li>
-                </ul> 
-                
-                <li>IBM AI analyst</li>
+               <li>IBM AI analyst</li>
                 <ul className="seccondary-ul">
                     <li>Completed the AI analyst course offered by IBM.</li>
                     <li>Gained proficiency in programming languages like R and python, utlizing them to implement AI algos.</li>
@@ -44,6 +36,16 @@ function Internships() {
                     <li>Acquired hands-on experience in data preprocessing, feature engineering, and data visualization techniques, enhancing data quality and extracting meaningful insights.</li>
                     <li><a rel="noreferrer" href="https://drive.google.com/file/d/1xfw2ND8RLlTzF-wLDIWVFNSU2ClismBC/view?usp=sharing" target="_blank">Link for the certificate</a></li>
                 </ul>
+                
+                <li>Google UX design professional certificate</li>
+                <ul className="seccondary-ul">
+                    <li>Learnt the foundations of UX design.</li>
+                    <li>Learnt the design process: Empathize, Define, and Ideate.</li>
+                    <li>Conducted UX research and learnt to create design prototypes.</li>
+                    <li>Learnt responsive web design.</li>
+                </ul> 
+                
+                
             </ul>
         </div>
     </>
