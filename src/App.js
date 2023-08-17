@@ -1,4 +1,5 @@
 import './App.css';
+import './Media.css'
 import Education from './components/Education';
 import Internships from './components/Internships';
 import Projects from './components/Projects';
