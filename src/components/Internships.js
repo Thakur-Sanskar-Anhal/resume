@@ -25,7 +25,7 @@ function Internships() {
                     <li>Learnt about trends and patterns recognitions.</li>
                     <li>Demonstrated proficiency in developing data vizualizations and presenting data in a meaningful manner.</li>
                     <li>Learnt and Demonstrated decision making and straterfy formulation based on data.</li>
-                    <li><a rel="noreferrer" href="https://drive.google.com/file/d/1UCDENWe2VmkcNzWzPml3ZTcJKW7VuS0F/view?usp=sharing" target="_blank">Completion certificate</a></li>
+                    <li><a rel="noreferrer" href="https://drive.google.com/file/d/1MuDJr7OYD6cbgxqhkdTsWV1npX9hTxtc/view?usp=sharing" target="_blank">Completion certificate</a></li>
                 </ul>
                
                <li>IBM AI analyst</li>
@@ -43,6 +43,7 @@ function Internships() {
                     <li>Learnt the design process: Empathize, Define, and Ideate.</li>
                     <li>Conducted UX research and learnt to create design prototypes.</li>
                     <li>Learnt responsive web design.</li>
+                    <li><a rel="noreferrer" href="https://drive.google.com/file/d/1kPU4Q1nrpBBB40Cs39YD91XYj-zBdLpV/view?usp=sharing" target="_blank">Link for the certificate</a></li>
                 </ul> 
                 
                 
