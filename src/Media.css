@@ -3,9 +3,9 @@
 /* 1024 px */
 @media screen and (max-width: 1024px) {
     :root{
-        --primary-text-color: #9cbc1c;
+        --primary-text-color: #3e1d04;
         --seccondary-text-color: #000000;
-        --link-color: #1f73c8;
+        --link-color: #bd8100;
         --padding-inline-section: 20px;
         --name-size: 120px;
         --heading-size: 37px;
@@ -36,9 +36,9 @@
 /* 480px */
 @media screen and (max-width: 480px) {
     :root{
-        --primary-text-color: #9cbc1c;
+        --primary-text-color: #3e1d04;
         --seccondary-text-color: #000000;
-        --link-color: #1f73c8;
+        --link-color: #bd8100;
         --padding-inline-section: 20px;
         --name-size: 85px;
         --heading-size: 35px;

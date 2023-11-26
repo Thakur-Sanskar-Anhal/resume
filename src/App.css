@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lora&family=Poppins:wght@400;700&family=Roboto:wght@400;700&family=Varela+Round&display=swap');
 
 :root{
-    --primary-text-color: #9cbc1c;
+    --primary-text-color: #3e1d04;
     --seccondary-text-color: #000000;
-    --link-color: #1f73c8;
+    --link-color: #bd8100;
     --padding-inline-section: 20px;
     --name-size: 150px;
     --heading-size: 40px;

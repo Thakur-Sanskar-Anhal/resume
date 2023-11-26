@@ -19,6 +19,14 @@ function Projects() {
                     <li><a rel="noreferrer" href="https://thakur-sanskar-anhal.github.io/tinker-text/" target="_blank">Link for Tinker.text</a></li>
                 </ul>
                 
+                <li>Created a personal notes application</li>
+                <ul className="seccondary-ul">
+                    <li>Designed and coded a java application to make and manage notes.</li>
+                    <li>Used Android Studio IDE for developing and Realm.io for data handling.</li>
+                    <li>Added many features as add, delete, and edit a note.</li>
+                    <li><a rel="noreferrer" href="https://github.com/Thakur-Sanskar-Anhal/Personal-Notes-App" target="_blank">Link for the GitHub project</a></li>
+                </ul>
+                
                 <li>UI/UX design Case Study for an app</li>
                 <ul className="seccondary-ul">
                     <li>Designed a custom sandwich ordering app for a trendy sandwich shop.</li>
@@ -26,16 +34,6 @@ function Projects() {
                     <li>Created paper and digital wireframes.</li>
                     <li>Created low-fidelity and high-fidelity designs.</li>
                     <li><a rel="noreferrer" href="https://www.figma.com/file/zB7HoV04AmIRH8IR1kzBYT/sans.wich?type=design&node-id=227%3A777&mode=design&t=TtpA93mEwFhif7zc-1" target="_blank">Link for my wireframes and base design</a></li>
-                </ul>
-
-                
-
-                <li>Created a personal notes application</li>
-                <ul className="seccondary-ul">
-                    <li>Designed and coded a java application to make and manage notes.</li>
-                    <li>Used Android Studio IDE for developing and Realm.io for data handling.</li>
-                    <li>Added many features as add, delete, and edit a note.</li>
-                    <li><a rel="noreferrer" href="https://github.com/Thakur-Sanskar-Anhal/Personal-Notes-App" target="_blank">Link for the GitHub project</a></li>
                 </ul>
 
                 <li>Created a login application</li>
